@@ -1,1 +1,5 @@
 # Uc_QualidadeSoftware
+
+O projeto Uc_QualidadeSoftware é dedicado ao estudo e aplicação de práticas de engenharia de software com foco na qualidade. Este repositório abriga recursos, códigos e documentação relacionados ao desenvolvimento de software de alta qualidade. Incluímos informações sobre a configuração do ambiente, instruções de instalação e detalhes sobre como os desenvolvedores podem contribuir para aprimorar a qualidade do software. Esteja à vontade para explorar, contribuir e fazer parte do aprimoramento contínuo da qualidade do software neste projeto.
+
+O projeto Uc_QualidadeSoftware também integra o framework JUnit para testes automatizados. Utilizamos o JUnit para garantir a robustez e confiabilidade do código, facilitando a identificação de falhas e a validação contínua durante o desenvolvimento. No README.md, você encontrará informações sobre como executar os testes automatizados usando o JUnit, bem como orientações sobre como adicionar novos testes ou contribuir para a expansão da cobertura de testes do projeto. A integração do JUnit faz parte do nosso compromisso com a excelência e qualidade do software produzido neste projeto.
